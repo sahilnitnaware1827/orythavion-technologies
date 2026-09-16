@@ -4,11 +4,9 @@
 ```
 orythavion-site/
 ├── index.html        # all 5 "pages" (Home, About, Internships, Projects, Contact)
-├── css/
-│   └── style.css
-├── js/
-│   └── script.js      # nav routing, accordions, project filter
-└── assets/
+├── style.css
+├── script.js      # nav routing, accordions, project filter
+└── images/
     └── Logo.png
 ```
 
